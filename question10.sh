@@ -1,3 +1,3 @@
-git checkout main
+git checkout master
 git merge branch1
 
