@@ -4,5 +4,5 @@ touch file4
 git add file4
 git commit -m "create file4"
 echo "contents" >> file4
-git checkout master
+git checkout main
 
